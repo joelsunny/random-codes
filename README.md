@@ -1,4 +1,4 @@
-contributed by joel sunny
+contributed by-- joel sunny--
 sept 12 2015
 
 Program finds the N point dft of an N point sequence using decimation in time fft algorithm.
